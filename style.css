@@ -1,7 +1,10 @@
 body {
   margin: 0;
   background: rgb(0,3,68);
-background: linear-gradient(180deg, rgba(0,3,68,1) 35%, rgba(112,0,214,1) 100%); /* gradient stuff */
+background: -moz-linear-gradient(180deg, rgba(0,3,68,1) 35%, rgba(112,0,214,1) 100%);
+background: -webkit-linear-gradient(180deg, rgba(0,3,68,1) 35%, rgba(112,0,214,1) 100%);
+background: linear-gradient(180deg, rgba(0,3,68,1) 35%, rgba(112,0,214,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endColorstr="#7000d6",GradientType=1);
   text-align: center; /* makes the text in the center */
   h1 {
     color: white;
