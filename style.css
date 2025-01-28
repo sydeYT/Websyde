@@ -23,9 +23,5 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endCo
   color: black;
   background: white;
 }
-p {
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
-}
 }
 
