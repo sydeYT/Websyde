@@ -1,11 +1,21 @@
 body {
   margin: 0;
-  background: black;
-  text-align: center;
+  background: black; /* makes the background black */
+  text-align: center; /* makes the text in the center */
   h1 {
     color: white;
   }
   p {
     color: white;
   }
+  ::-moz-selection { /* code for Firefox */
+  color: black;
+  background: white;
+}
+
+::selection { /* code for other browsers */
+  color: black;
+  background: white;
+}
+  
 }
