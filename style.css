@@ -24,7 +24,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endCo
 }
 p {
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: white;
+  -webkit-text-stroke-color: purple;
 }
 }
 
