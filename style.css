@@ -11,6 +11,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endCo
   }
   p {
     color: white;
+  font-family: arial, sans-serif;
   }
   ::-moz-selection { /* code for Firefox */
   color: black;
@@ -23,7 +24,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endCo
 }
 p {
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: white;
 }
 }
 
