@@ -22,7 +22,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endCo
   background: white;
 }
 p {
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: black;
 }
 }
