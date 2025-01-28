@@ -12,6 +12,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endCo
   p {
     color: white;
   font-family: arial, sans-serif;
+    font-weight: bold;
   }
   ::-moz-selection { /* code for Firefox */
   color: black;
