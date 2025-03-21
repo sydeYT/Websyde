@@ -9,6 +9,9 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000344",endCo
   h1 {
     color: white;
   }
+   h2 {
+    color: white;
+  }
   p {
     color: white;
   font-family: arial, sans-serif;
